@@ -1,3 +1,4 @@
+```java
 class Solution {
     public boolean isIdealPermutation(int[] A) {
         int max = -1;
@@ -8,3 +9,4 @@ class Solution {
         return true;
     }
 }
+```

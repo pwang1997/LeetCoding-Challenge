@@ -1,3 +1,4 @@
+```java
 class Solution {
     public int largestUniqueNumber(int[] A) {
         Map<Integer, Integer> map = new HashMap<>();
@@ -24,3 +25,4 @@ class Solution {
         return largestNum;
     }
 }
+```

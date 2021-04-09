@@ -1,3 +1,4 @@
+```java
 class Solution {
     public int minOperations(int n) {
         int sum = 0;
@@ -9,3 +10,4 @@ class Solution {
         return sum;
     }
 }
+```

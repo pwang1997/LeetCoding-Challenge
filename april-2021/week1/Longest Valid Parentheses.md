@@ -1,3 +1,4 @@
+```java
 class Solution {
     public int longestValidParentheses(String s) {
         int maxans = 0;
@@ -15,3 +16,4 @@ class Solution {
         return maxans;
     }
 }
+```

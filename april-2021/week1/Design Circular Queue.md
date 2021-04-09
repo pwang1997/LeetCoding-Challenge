@@ -1,3 +1,4 @@
+```java
 class MyCircularQueue {
 
     Node front = null, rear = null;
@@ -69,3 +70,4 @@ class Node {
  * boolean param_5 = obj.isEmpty();
  * boolean param_6 = obj.isFull();
  */
+ ```
